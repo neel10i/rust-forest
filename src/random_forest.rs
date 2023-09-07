@@ -1,4 +1,5 @@
 use std::collections::HashMap;
+use crate::decision_tree::DecisionTree;
 
 pub struct RandomForest {
     trees: Vec<DecisionTree>,
