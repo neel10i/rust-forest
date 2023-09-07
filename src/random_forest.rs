@@ -1,5 +1,5 @@
 use std::collections::HashMap;
-rrrrr
+
 pub struct RandomForest {
     trees: Vec<DecisionTree>,
 }
